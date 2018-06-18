@@ -1,13 +1,13 @@
 # Packt_Publishing_courses_by_Tomasz_Lelek
 https://www.packtpub.com/books/info/authors/tomasz-lelek
 
--Microservices in Scala World: 
+- Microservices in Scala World: 
 https://www.packtpub.com/application-development/microservices-scala-video
 
--Building Microservice with AKKA HTTP:
+- Building Microservice with AKKA HTTP:
 https://www.packtpub.com/application-development/building-microservice-akka-http-video
 
--Building Microservices with Lagom:
+- Building Microservices with Lagom:
 https://www.packtpub.com/big-data-and-business-intelligence/building-microservices-lagom-video
 
 -Big Data Processing using Apache Spark:
