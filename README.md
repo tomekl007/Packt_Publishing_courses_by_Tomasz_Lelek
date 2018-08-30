@@ -61,4 +61,9 @@ https://www.packtpub.com/networking-and-servers/enterprise-automation-python-vid
 - AWS Networking Solutions 
 https://www.packtpub.com/virtualization-and-cloud/aws-networking-solutions-video
 
+-Big Data Analytics Projects with Apache Spark
+https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics-projects-apache-spark-video
+
+-Hands-On Big Data Analysis with Hadoop 3
+https://www.packtpub.com/big-data-and-business-intelligence/hands-big-data-analysis-hadoop-3-video
 
