@@ -67,3 +67,9 @@ https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics-p
 - Hands-On Big Data Analysis with Hadoop 3
 https://www.packtpub.com/big-data-and-business-intelligence/hands-big-data-analysis-hadoop-3-video
 
+- Java EE 8 Application Development
+https://www.packtpub.com/application-development/java-ee-8-application-development-video
+
+- Hands-On Web Development with TypeScript 3
+https://www.packtpub.com/application-development/hands-web-development-typescript-3-video
+
