@@ -73,3 +73,42 @@ https://www.packtpub.com/application-development/java-ee-8-application-developme
 - Hands-On Web Development with TypeScript 3
 https://www.packtpub.com/application-development/hands-web-development-typescript-3-video
 
+- Clean Data: Tips, Tricks, and Techniques
+https://www.packtpub.com/big-data-and-business-intelligence/clean-data-tips-tricks-and-techniques-video
+
+- Troubleshooting Apache Spark 
+https://www.packtpub.com/application-development/troubleshooting-apache-spark-video
+
+- Apache Spark: Tips, Tricks, & Techniques
+https://www.packtpub.com/application-development/apache-spark-tips-tricks-techniques-video
+
+- Hands-On Microservices with Spring Boot 2.0
+https://www.packtpub.com/application-development/hands-microservices-spring-boot-20-video
+
+- Hands-On Machine Learning with Scala and Spark
+https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-scala-and-spark-video
+
+- Hands-On Spring Security 5.x 
+https://www.packtpub.com/application-development/hands-spring-security-5x-video
+
+- Deep Learning with Apache Spark 
+https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-apache-spark-video
+
+- Distributed Deep Learning with Apache Spark
+ https://www.packtpub.com/big-data-and-business-intelligence/distributed-deep-learning-apache-spark-video
+ 
+- Machine Learning Projects with Java
+https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-projects-java-video
+
+- Mastering Deep Learning using Apache Spark
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-deep-learning-using-apache-spark-video
+
+- Hands-On Reactive Programming with Java 12
+https://www.packtpub.com/application-development/hands-reactive-programming-java-12-video
+
+- Hands-On Application Development with Spring Boot 2 
+https://www.packtpub.com/application-development/hands-application-development-spring-boot-2-video
+
+- Hands-On Java Regular Expressions
+https://www.packtpub.com/application-development/hands-java-regular-expressions-video
+ 
