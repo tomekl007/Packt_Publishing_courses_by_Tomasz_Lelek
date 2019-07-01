@@ -111,4 +111,10 @@ https://www.packtpub.com/application-development/hands-application-development-s
 
 - Hands-On Java Regular Expressions
 https://www.packtpub.com/application-development/hands-java-regular-expressions-video
+
+- Java High Performance 
+https://www.packtpub.com/application-development/java-high-performance-video
+
+- Reactive Programming in 7 Steps
+https://www.packtpub.com/programming/reactive-programming-in-7-steps-video
  
