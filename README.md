@@ -118,3 +118,5 @@ https://www.packtpub.com/application-development/java-high-performance-video
 - Reactive Programming in 7 Steps
 https://www.packtpub.com/programming/reactive-programming-in-7-steps-video
  
+- Deep Learning with Java
+https://www.packtpub.com/data/deep-learning-with-java-video
