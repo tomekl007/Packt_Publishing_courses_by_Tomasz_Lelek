@@ -120,3 +120,6 @@ https://www.packtpub.com/programming/reactive-programming-in-7-steps-video
  
 - Deep Learning with Java
 https://www.packtpub.com/data/deep-learning-with-java-video
+
+- Hands-On Reinforcement Learning with Java 
+https://www.packtpub.com/data/hands-on-reinforcement-learning-with-java-video
