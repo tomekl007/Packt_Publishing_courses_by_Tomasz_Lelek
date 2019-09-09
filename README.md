@@ -126,3 +126,6 @@ https://www.packtpub.com/data/hands-on-reinforcement-learning-with-java-video
 
 - Spring Boot Tips, Tricks, and Techniques
 https://www.packtpub.com/programming/spring-boot-tips-tricks-and-techniques-video
+
+- Mastering Spring Boot 2.x
+https://www.packtpub.com/programming/mastering-spring-boot-2-x-video
