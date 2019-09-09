@@ -123,3 +123,6 @@ https://www.packtpub.com/data/deep-learning-with-java-video
 
 - Hands-On Reinforcement Learning with Java 
 https://www.packtpub.com/data/hands-on-reinforcement-learning-with-java-video
+
+- Spring Boot Tips, Tricks, and Techniques
+https://www.packtpub.com/programming/spring-boot-tips-tricks-and-techniques-video
