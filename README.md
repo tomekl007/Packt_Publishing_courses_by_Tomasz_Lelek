@@ -129,3 +129,6 @@ https://www.packtpub.com/programming/spring-boot-tips-tricks-and-techniques-vide
 
 - Mastering Spring Boot 2.x
 https://www.packtpub.com/programming/mastering-spring-boot-2-x-video
+
+- Hands-On Scala Programming
+https://www.packtpub.com/programming/hands-on-scala-programming-video
