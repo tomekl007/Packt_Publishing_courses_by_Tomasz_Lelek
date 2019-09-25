@@ -132,3 +132,6 @@ https://www.packtpub.com/programming/mastering-spring-boot-2-x-video
 
 - Hands-On Scala Programming
 https://www.packtpub.com/programming/hands-on-scala-programming-video
+
+- Hands-On Reactive Programming with Spring 5.0
+https://www.packtpub.com/programming/hands-on-reactive-programming-with-spring-5-0-video
