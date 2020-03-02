@@ -138,3 +138,6 @@ https://www.packtpub.com/programming/hands-on-reactive-programming-with-spring-5
 
 - Containers for Microservices: Kubernetes and Docker Recipes
 https://www.packtpub.com/web-development/containers-for-microservices-kubernetes-and-docker-recipes-video
+
+- Docker: Tips, Tricks, and Techniques
+https://www.packtpub.com/cloud-networking/docker-tips-tricks-and-techniques-video
