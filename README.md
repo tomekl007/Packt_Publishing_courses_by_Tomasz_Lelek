@@ -141,3 +141,6 @@ https://www.packtpub.com/web-development/containers-for-microservices-kubernetes
 
 - Docker: Tips, Tricks, and Techniques
 https://www.packtpub.com/cloud-networking/docker-tips-tricks-and-techniques-video
+
+# knowledgehut MySQL course
+https://www.knowledgehut.com/database/mysql
